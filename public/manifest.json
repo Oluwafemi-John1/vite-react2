@@ -1,7 +1,7 @@
 {
     "name": "My App",
     "short_name": "App",
-    "start_url": ".",
+    "start_url": "https://vite-react2.vercel.app/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#333333",
